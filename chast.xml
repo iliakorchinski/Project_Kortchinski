@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<title>New home collection</title>
+<collection>
+<products name="Mango" id="123" category="fruits">
+<link href="https://app.jupiter.co/browse?c=Top%20Products"/>
+<price>$12.00</price>
+</products>
+<products name="banana" id="456" category="fruits">
+<link href="https://app.jupiter.co/browse?c=Top%20Products"/>
+<price>$20.00</price>
+</products>
+<products name="cucumber" id="789" category="vegetables">
+<link href="https://app.jupiter.co/browse?c=Top%20Products"/>
+<price>$20.00</price>
+</products>
+<products name="tomato" id="987" category="vegetables">
+<link href="https://app.jupiter.co/browse?c=Top%20Products"/>
+<price>$25.00</price>
+</products>
+<products name="milk" id="345" category="liquid">
+<link href="https://app.jupiter.co/browse?c=Top%20Productss"/>
+<price>$22.00</price>
+</products>
+</collection>
